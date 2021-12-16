@@ -1,0 +1,11 @@
+
+e
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(–¤¾›8µÀşÃÕ/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ùÏüÓÿÿÿÿÿ8µÀşÃÕ/
+j
+java:S3824("HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ÃÎÃ‡ÿÿÿÿÿ8µÀşÃÕ/
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8µÀşÃÕ/
+:
+java:S2119#"Save and re-use this "Random".(¼İÅf8µÀşÃÕ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ë8µÀşÃÕ/
